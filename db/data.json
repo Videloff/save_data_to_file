@@ -1,0 +1,13 @@
+{
+  "nombre d'habitant": 2,
+  "habitants": [
+    "Jean",
+    "Josiane"
+  ],
+  "ages": [
+    30,
+    27
+  ],
+  "ville": "Paris",
+  "date d'arrivée": "26 juin 2018"
+}
